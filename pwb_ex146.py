@@ -1,4 +1,5 @@
-# Ex. 146:xercise 146: Letter Frequencies. Solved in 43 Lines.
+# Ex. 146:xercise 146: Letter Frequencies
+# . Solved in 43 Lines.
 # This analysis examines the encrypted text to determine which characters are most common.
 # Write a program that initiates this process by determining and displaying the
 # frequencies of all letters in a file.

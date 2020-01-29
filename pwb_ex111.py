@@ -41,4 +41,6 @@ def main():
            == ['In', 'addition', 'the', 'word', 'and', 'is', 'normally', 'included']
     assert only_words('?what??.;') == ['what']
 
-main()
+
+if __name__ == '__main__':
+    main()
